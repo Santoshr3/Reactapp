@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Santoshr3/Reactapp/static/css/main.076112ac.css",
+    "main.js": "/Santoshr3/Reactapp/static/js/main.d7290ada.js",
+    "static/js/787.963412cf.chunk.js": "/Santoshr3/Reactapp/static/js/787.963412cf.chunk.js",
+    "index.html": "/Santoshr3/Reactapp/index.html",
+    "main.076112ac.css.map": "/Santoshr3/Reactapp/static/css/main.076112ac.css.map",
+    "main.d7290ada.js.map": "/Santoshr3/Reactapp/static/js/main.d7290ada.js.map",
+    "787.963412cf.chunk.js.map": "/Santoshr3/Reactapp/static/js/787.963412cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076112ac.css",
+    "static/js/main.d7290ada.js"
+  ]
+}
