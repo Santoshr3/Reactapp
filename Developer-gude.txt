@@ -1,0 +1,73 @@
+---React project setup--
+1. install nodejs
+
+2.create folder as react
+
+3.open cmd in react folder
+
+4.install react environment using below command
+    => npm install -g create-react-app
+
+5.setup new project using below command
+    => npx create-react-app project1
+    note: project1 is project name
+
+6.on success of step 5 the following message will come
+    "Happy Hacking"
+
+7.follow below command to go inside project1 folder
+
+8.follow below command to start develpement server
+    => npm start
+    note: on success of step 8, the browser will open default react page
+    http://localhost:3000
+    the default port of reacr is 3000
+
+-------------------------------------------------------------------------------------
+
+What is component in react.
+=> A component in react is justlike function in javascript.
+   it return the set of html code based on jsx rules.
+
+JSX - Javascript and XML
+JSX = Javascript + HTML + XML Rules.
+JSX Element = Al the HTML tags + user deined tags called JSX element in React
+
+Rules of JSX:-
+1) If inside a component more than 1 JSX element are required then keep inside a parent jsx element.
+example - 
+        <div>
+            <h1>About us</h1>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+        </div>
+
+2) If inside a component more than 1 JSX element are required then the parent or child JSX element can be user defined also. (means we can give custom/our own tags also)
+example - 
+        <div>
+            <h1>About us</h1>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+        </div>
+
+3) If inside a componentmore than 1 JSX elements are required the parentor child element can be <></> tags also.
+example - 
+        <>
+            <h1>About us</h1>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+            <p>paragraph content </p>
+        </>
+
+4) If inside a componentmore than 1 JSX elements are required the parent  element can be [] array also.
+example - 
+        [
+            <h1>About us</h1>,
+            <p>paragraph content </p>,
+            <p>paragraph content </p>,
+            <p>paragraph content </p>
+        ]
+    note: we have to use comma after each tag to use this method
+-------------------------------------------------------------------------------------
