@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Santoshr3/Reactapp/static/css/main.076112ac.css",
-    "main.js": "/Santoshr3/Reactapp/static/js/main.d7290ada.js",
-    "static/js/787.963412cf.chunk.js": "/Santoshr3/Reactapp/static/js/787.963412cf.chunk.js",
-    "index.html": "/Santoshr3/Reactapp/index.html",
-    "main.076112ac.css.map": "/Santoshr3/Reactapp/static/css/main.076112ac.css.map",
-    "main.d7290ada.js.map": "/Santoshr3/Reactapp/static/js/main.d7290ada.js.map",
-    "787.963412cf.chunk.js.map": "/Santoshr3/Reactapp/static/js/787.963412cf.chunk.js.map"
+    "main.css": "/Reactapp/static/css/main.076112ac.css",
+    "main.js": "/Reactapp/static/js/main.2fe6f554.js",
+    "static/js/787.963412cf.chunk.js": "/Reactapp/static/js/787.963412cf.chunk.js",
+    "index.html": "/Reactapp/index.html",
+    "main.076112ac.css.map": "/Reactapp/static/css/main.076112ac.css.map",
+    "main.2fe6f554.js.map": "/Reactapp/static/js/main.2fe6f554.js.map",
+    "787.963412cf.chunk.js.map": "/Reactapp/static/js/787.963412cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.076112ac.css",
-    "static/js/main.d7290ada.js"
+    "static/js/main.2fe6f554.js"
   ]
 }
